@@ -20,7 +20,7 @@
                 { 
                     "type": "archive", 
                     "url": "https://download.kde.org/stable/applications/18.12.0/src/kbruch-18.12.0.tar.xz",
-                    "sha256": "0e6dbc3a8ed7ea5c04f23a0b797508ab36665fdc58da26055b87200a8f9071be"
+                    "sha256": "167163a921bef1c45263e5c319f29ac842400513332530b91e0a89176b56db94"
                 } 
             ]        
         }
