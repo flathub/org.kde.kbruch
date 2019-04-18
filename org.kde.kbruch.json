@@ -1,7 +1,7 @@
 {
     "id": "org.kde.kbruch",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.11",
+    "runtime-version": "5.12",
     "sdk": "org.kde.Sdk",
     "command": "kbruch",
     "rename-icon": "kbruch",
@@ -19,8 +19,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/kbruch-18.12.0.tar.xz",
-                    "sha256": "167163a921bef1c45263e5c319f29ac842400513332530b91e0a89176b56db94"
+                    "url": "https://download.kde.org/stable/applications/19.04.0/src/kbruch-19.04.0.tar.xz",
+                    "sha256": "7762c233529b75859ab264bcfd9847acc06889b0ff96183a1af63effd40f3f38"
                 } 
             ]        
         }
