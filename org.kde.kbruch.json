@@ -19,8 +19,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/19.08.2/src/kbruch-19.08.2.tar.xz",
-                    "sha256": "a2cead23cab880b21769e41086505b50de659630860d056b6a8504caafd4dcf0"
+                    "url": "https://download.kde.org/stable/release-service/19.12.0/src/kbruch-19.12.0.tar.xz",
+                    "sha256": "ce64ae5eb90fdd82e1180e58a3fbedc734a24e85ed073e94e4427b1353a860c2"
                 } 
             ]        
         }
