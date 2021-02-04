@@ -18,8 +18,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/20.12.1/src/kbruch-20.12.1.tar.xz",
-                    "sha256": "116b4bd318ce5d7bbf780992c20ccbe0a5bcfecb259a846132d0129bb9c94b1b"
+                    "url": "https://download.kde.org/stable/release-service/20.12.2/src/kbruch-20.12.2.tar.xz",
+                    "sha256": "b7a7c4fff70a722f95e7b34c799739e3ec1494eee0de4a7fbee85ddaf4af5c42"
                 } 
             ]        
         }
