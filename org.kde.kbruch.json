@@ -18,8 +18,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.08.0/src/kbruch-21.08.0.tar.xz",
-                    "sha256": "ba2f067140ce6772d35cb2d2ed634565e204d3d73a8f20f6cd583490bd76aa22"
+                    "url": "https://download.kde.org/stable/release-service/21.08.1/src/kbruch-21.08.1.tar.xz",
+                    "sha256": "64d43b27bf02201cfd07fb0c69f2411c3ce67d9c9c9124feb823d5a1d8e773e5"
                 } 
             ]        
         }
