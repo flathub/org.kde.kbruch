@@ -19,7 +19,13 @@
                 { 
                     "type": "archive", 
                     "url": "https://download.kde.org/stable/release-service/21.12.3/src/kbruch-21.12.3.tar.xz",
-                    "sha256": "5deb89858b96c73d3beeaeb7d7e63c71f3adf46926036239c6932b5ad45d9ccd"
+                    "sha256": "5deb89858b96c73d3beeaeb7d7e63c71f3adf46926036239c6932b5ad45d9ccd",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kbruch-$version.tar.xz"
+                    }
                 } 
             ]        
         }
