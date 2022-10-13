@@ -1,0 +1,16 @@
+commit a591d35ade2b1bf1d76a7fca1ddc7c7fe992a498
+Author: Albert Astals Cid <aacid@kde.org>
+Date:   Fri Oct 14 00:34:12 2022 +0200
+
+    Install the 128px version of the icon
+
+diff --git a/src/CMakeLists.txt b/src/CMakeLists.txt
+index 46170c6..b68bb5a 100644
+--- a/src/CMakeLists.txt
++++ b/src/CMakeLists.txt
+@@ -58,4 +58,4 @@ install( FILES kbruchui.rc  DESTINATION  ${KDE_INSTALL_KXMLGUIDIR}/kbruch )
+ install( FILES AppMenuWidgetui.rc  DESTINATION  ${KDE_INSTALL_KXMLGUIDIR}/kbruch )
+ install( FILES FractionRingWidgetui.rc  DESTINATION  ${KDE_INSTALL_KXMLGUIDIR}/kbruch )
+ 
+-ecm_install_icons( ICONS 16-apps-kbruch.png 22-apps-kbruch.png 32-apps-kbruch.png 48-apps-kbruch.png 64-apps-kbruch.png sc-apps-kbruch.svgz DESTINATION ${KDE_INSTALL_ICONDIR} THEME hicolor )
++ecm_install_icons( ICONS 16-apps-kbruch.png 22-apps-kbruch.png 32-apps-kbruch.png 48-apps-kbruch.png 64-apps-kbruch.png 128-apps-kbruch.png sc-apps-kbruch.svgz DESTINATION ${KDE_INSTALL_ICONDIR} THEME hicolor )
