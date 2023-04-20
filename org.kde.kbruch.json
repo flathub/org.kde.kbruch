@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.12.3/src/kbruch-22.12.3.tar.xz",
-                    "sha256": "af37e47c89bc4154fcafb2a93b21ed1ac81a43d425d21e6f729c33740121215f",
+                    "url": "https://download.kde.org/stable/release-service/23.04.0/src/kbruch-23.04.0.tar.xz",
+                    "sha256": "7054f48afd366cb774fb221b32400fce62098e267a63263c8382eb4b7d3cf655",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
