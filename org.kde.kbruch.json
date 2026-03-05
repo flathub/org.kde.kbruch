@@ -11,7 +11,7 @@
         "--socket=fallback-x11",
         "--socket=wayland"
     ],
-     "cleanup": [
+    "cleanup": [
         "/share/doc",
         "/share/man"
     ],
@@ -22,8 +22,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.2/src/kbruch-25.12.2.tar.xz",
-                    "sha256": "85bf383d3a052ed8cbe8158ba57016d8f8bc95660d01508b8ee68aab82b39fc9",
+                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/kbruch-25.12.3.tar.xz",
+                    "sha256": "2c9c0c4774108d8dc58ca4f14168cb9e53377e3fd2ff787c8e81d9dd3179b4fe",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
