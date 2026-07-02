@@ -22,8 +22,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.2/src/kbruch-26.04.2.tar.xz",
-                    "sha256": "af81430b703edc70091a507f911ce66377bc720eed3e88e781a4ce8b9d1db343",
+                    "url": "https://download.kde.org/stable/release-service/26.04.3/src/kbruch-26.04.3.tar.xz",
+                    "sha256": "3eae3f9a99ead74cd509f87d7c9e9c6cd91977ec8b6ee68cf0c80371d6b5e273",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
